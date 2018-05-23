@@ -1,1 +1,2 @@
 for tag 0.1
+[add hotfixes] Severe bug fixed for production: hotfix 0.2
